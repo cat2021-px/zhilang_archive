@@ -7,9 +7,12 @@
 > + git命令
 
 ```bash
-git add README.md  imgs/
-git commit -m "init-qingzi's home" README.md imgs/
-git remote  add zhlangArchive git@github.com:cat2021-px/zhilang_archive.git
+git add *
+git commit -m "first-commit:qingzi's home" *
+git remote  add zhlangArchive  git@github.com:cat2021-px/zhilang_archive.git
 git push zhlangArchive master
 ```
 
+## 2. 大将
+
+![](./imgs/河原.png)
