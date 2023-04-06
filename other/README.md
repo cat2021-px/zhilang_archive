@@ -30,3 +30,20 @@ a19f15e (HEAD -> master, zhilangArchive/master) HEAD@{0}: commit: second-commit:
 ## 3. 长枪
 
 ![](./imgs/长枪.png)
+
+```bash
+$ git reflog
+7927db9 (HEAD -> master, zhilangArchive/master) HEAD@{0}: reset: moving to 7927db9
+a19f15e HEAD@{1}: reset: moving to a19f15e
+# 长枪id 7927db9
+7927db9 (HEAD -> master, zhilangArchive/master) HEAD@{2}: commit: third-commit:changqiang
+a19f15e HEAD@{3}: commit: second-commit:dajiang
+63148a5 HEAD@{4}: commit (initial): first-commit:qingzi's home
+
+```
+
+
+
+## 4. 八重塔忍者
+
+![](./imgs/八重塔.png)
