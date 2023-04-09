@@ -61,3 +61,20 @@ a19f15e HEAD@{4}: commit: second-commit:dajiang
 
 ## 5. 燃烧房子过桥相扑选手
 
+![](./imgs/火房子相扑选手.png)
+
+```bash
+# fifth-commit:huoFangZiXiangPu 225db52
+225db52 (HEAD -> master, zhilangArchive/master) HEAD@{0}: commit: fifth-commit:huoFangZiXiangPu
+b3374b2 HEAD@{1}: commit: fourth-commit:bachongtarenzhe
+7927db9 HEAD@{2}: reset: moving to 7927db9
+a19f15e HEAD@{3}: reset: moving to a19f15e
+7927db9 HEAD@{4}: commit: third-commit:changqiang
+a19f15e HEAD@{5}: commit: second-commit:dajiang
+63148a5 HEAD@{6}: commit (initial): first-commit:qingzi's home
+
+```
+
+## 6. 虎口阶梯-赤鬼
+
+![](./imgs/虎口阶梯赤鬼.png)
