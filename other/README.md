@@ -47,3 +47,17 @@ a19f15e HEAD@{3}: commit: second-commit:dajiang
 ## 4. 八重塔忍者
 
 ![](./imgs/八重塔.png)
+
+```bash
+$ git reflog
+# 八重他忍者id b3374b2
+b3374b2 (HEAD -> master, zhilangArchive/master) HEAD@{0}: commit: fourth-commit:bachongtarenzhe
+7927db9 HEAD@{1}: reset: moving to 7927db9
+a19f15e HEAD@{2}: reset: moving to a19f15e
+7927db9 HEAD@{3}: commit: third-commit:changqiang
+a19f15e HEAD@{4}: commit: second-commit:dajiang
+63148a5 HEAD@{5}: commit (initial): first-commit:qingzi's home
+```
+
+## 5. 燃烧房子过桥相扑选手
+
