@@ -78,3 +78,19 @@ a19f15e HEAD@{5}: commit: second-commit:dajiang
 ## 6. 虎口阶梯-赤鬼
 
 ![](./imgs/虎口阶梯赤鬼.png)
+
+```bash
+# 赤鬼id 2e475e9
+2e475e9 (HEAD -> master, zhilangArchive/master) HEAD@{0}: commit: sixth-commit:chigui
+225db52 HEAD@{1}: commit: fifth-commit:huoFangZiXiangPu
+b3374b2 HEAD@{2}: commit: fourth-commit:bachongtarenzhe
+7927db9 HEAD@{3}: reset: moving to 7927db9
+a19f15e HEAD@{4}: reset: moving to a19f15e
+7927db9 HEAD@{5}: commit: third-commit:changqiang
+a19f15e HEAD@{6}: commit: second-commit:dajiang
+63148a5 HEAD@{7}: commit (initial): first-commit:qingzi's home
+```
+
+## 7. 赤鬼之后
+
+![](./imgs/赤鬼之后的大将.png)
