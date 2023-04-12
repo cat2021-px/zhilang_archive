@@ -94,3 +94,21 @@ a19f15e HEAD@{6}: commit: second-commit:dajiang
 ## 7. 赤鬼之后
 
 ![](./imgs/赤鬼之后的大将.png)
+
+```bash
+$ git reflog
+# 武士大将 5c3438c
+5c3438c (HEAD -> master, zhilangArchive/master) HEAD@{0}: commit: seventh:commit:chiguizhihou
+2e475e9 HEAD@{1}: commit: sixth-commit:chigui
+225db52 HEAD@{2}: commit: fifth-commit:huoFangZiXiangPu
+b3374b2 HEAD@{3}: commit: fourth-commit:bachongtarenzhe
+7927db9 HEAD@{4}: reset: moving to 7927db9
+a19f15e HEAD@{5}: reset: moving to a19f15e
+7927db9 HEAD@{6}: commit: third-commit:changqiang
+a19f15e HEAD@{7}: commit: second-commit:dajiang
+63148a5 HEAD@{8}: commit (initial): first-commit:qingzi's home
+```
+
+## 8. 初遇无首
+
+![](./imgs/初遇无首.png)
