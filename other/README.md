@@ -112,3 +112,22 @@ a19f15e HEAD@{7}: commit: second-commit:dajiang
 ## 8. 初遇无首
 
 ![](./imgs/初遇无首.png)
+
+```bash
+$ git reflog
+# 无首id feea4ad
+feea4ad (HEAD -> master, zhilangArchive/master) HEAD@{0}: commit: eighth-commit:chuyuwushou
+5c3438c HEAD@{1}: commit: seventh:commit:chiguizhihou
+2e475e9 HEAD@{2}: commit: sixth-commit:chigui
+225db52 HEAD@{3}: commit: fifth-commit:huoFangZiXiangPu
+b3374b2 HEAD@{4}: commit: fourth-commit:bachongtarenzhe
+7927db9 HEAD@{5}: reset: moving to 7927db9
+a19f15e HEAD@{6}: reset: moving to a19f15e
+7927db9 HEAD@{7}: commit: third-commit:changqiang
+a19f15e HEAD@{8}: commit: second-commit:dajiang
+63148a5 HEAD@{9}: commit (initial): first-commit:qingzi's home
+```
+
+## 9. 蚺蛇重藏
+
+![](./imgs/蟒蛇重藏.png)
