@@ -131,3 +131,23 @@ a19f15e HEAD@{8}: commit: second-commit:dajiang
 ## 9. 蚺蛇重藏
 
 ![](./imgs/蟒蛇重藏.png)
+
+```bash
+$ git reflog
+# 蚺蛇id d742d2b
+d742d2b (HEAD -> master, zhilangArchive/master) HEAD@{0}: commit: tenth-commit:ranshezhongzang
+feea4ad HEAD@{1}: commit: eighth-commit:chuyuwushou
+5c3438c HEAD@{2}: commit: seventh:commit:chiguizhihou
+2e475e9 HEAD@{3}: commit: sixth-commit:chigui
+225db52 HEAD@{4}: commit: fifth-commit:huoFangZiXiangPu
+b3374b2 HEAD@{5}: commit: fourth-commit:bachongtarenzhe
+7927db9 HEAD@{6}: reset: moving to 7927db9
+a19f15e HEAD@{7}: reset: moving to a19f15e
+7927db9 HEAD@{8}: commit: third-commit:changqiang
+a19f15e HEAD@{9}: commit: second-commit:dajiang
+63148a5 HEAD@{10}: commit (initial): first-commit:qingzi's home
+
+```
+
+## 10. 蝶夫人
+
