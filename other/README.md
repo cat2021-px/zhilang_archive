@@ -151,3 +151,29 @@ a19f15e HEAD@{9}: commit: second-commit:dajiang
 
 ## 10. 蝶夫人
 
+![](./imgs/蝶夫人.png)
+
+```bash
+# 蝶夫人id bd90d20
+bd90d20 (HEAD -> master, zhilangArchive/master) HEAD@{0}: commit: eleventh-commit:dieFuRen
+d742d2b HEAD@{1}: commit: tenth-commit:ranshezhongzang
+feea4ad HEAD@{2}: commit: eighth-commit:chuyuwushou
+5c3438c HEAD@{3}: commit: seventh:commit:chiguizhihou
+2e475e9 HEAD@{4}: commit: sixth-commit:chigui
+225db52 HEAD@{5}: commit: fifth-commit:huoFangZiXiangPu
+b3374b2 HEAD@{6}: commit: fourth-commit:bachongtarenzhe
+7927db9 HEAD@{7}: reset: moving to 7927db9
+a19f15e HEAD@{8}: reset: moving to a19f15e
+7927db9 HEAD@{9}: commit: third-commit:changqiang
+a19f15e HEAD@{10}: commit: second-commit:dajiang
+63148a5 HEAD@{11}: commit (initial): first-commit:qingzi's home
+```
+
+
+
+## 11. 金刚寺无首
+
+![](./imgs/金刚寺无首.png)
+
+
+
