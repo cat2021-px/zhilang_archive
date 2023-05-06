@@ -175,5 +175,24 @@ a19f15e HEAD@{10}: commit: second-commit:dajiang
 
 ![](./imgs/金刚寺无首.png)
 
+```bash
+# 无首id 2e735ab
+2e735ab (HEAD -> master, zhilangArchive/master) HEAD@{0}: commit: 12th-commit:wushou8
+bd90d20 HEAD@{1}: commit: eleventh-commit:dieFuRen
+d742d2b HEAD@{2}: commit: tenth-commit:ranshezhongzang
+feea4ad HEAD@{3}: commit: eighth-commit:chuyuwushou
+5c3438c HEAD@{4}: commit: seventh:commit:chiguizhihou
+2e475e9 HEAD@{5}: commit: sixth-commit:chigui
+225db52 HEAD@{6}: commit: fifth-commit:huoFangZiXiangPu
+b3374b2 HEAD@{7}: commit: fourth-commit:bachongtarenzhe
+7927db9 HEAD@{8}: reset: moving to 7927db9
+a19f15e HEAD@{9}: reset: moving to a19f15e
+7927db9 HEAD@{10}: commit: third-commit:changqiang
+a19f15e HEAD@{11}: commit: second-commit:dajiang
+63148a5 HEAD@{12}: commit (initial): first-commit:qingzi's home
+```
 
+
+
+## 12. 鬼形部
 
